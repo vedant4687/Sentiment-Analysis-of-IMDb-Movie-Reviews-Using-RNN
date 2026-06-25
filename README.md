@@ -1,2 +1,46 @@
-# Sentiment-Analysis-of-IMDb-Movie-Reviews-Using-RNN
-This project implements sentiment analysis on the IMDb movie review dataset using a Recurrent Neural Network. It includes data preprocessing, word tokenization, sequence padding, model training, and evaluation for binary classification of movie reviews into positive and negative sentiments.
+# 🎬 Mood Analyzer
+
+AI-powered IMDb Movie Review Sentiment Analysis using PyTorch RNN and TF-IDF.
+
+## Features
+
+- Sentiment Classification (Positive / Negative)
+- RNN-based Deep Learning Model
+- TF-IDF Feature Extraction
+- Interactive Streamlit Dashboard
+- Prediction Confidence Score
+- Prediction History
+
+## Tech Stack
+
+- Python
+- PyTorch
+- Streamlit
+- Scikit-Learn
+- NLTK
+- Pandas
+
+## Dataset
+
+IMDb 50K Movie Reviews Dataset
+
+## Model Performance
+
+- Accuracy: ~89%
+- Features: 5000 TF-IDF Features
+- Architecture: RNN
+
+## Screenshot
+
+![Mood Analyzer](assets/homepage.png)
+
+## Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## Author
+
+Vedant Deshmukh
