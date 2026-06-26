@@ -32,7 +32,7 @@ IMDb 50K Movie Reviews Dataset
 
 ## Screenshot
 
-![IMDB_Sentimental_Analysis](assets/homepage.png)
+![IMDB_Sentimental_Analysis](assets/Homepage.png)
 
 ## Run Locally
 
